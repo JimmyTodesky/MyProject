@@ -9,7 +9,6 @@
 pandas
 numpy
 sklearn
-
 ```
 
 ## Выводы по проекту
